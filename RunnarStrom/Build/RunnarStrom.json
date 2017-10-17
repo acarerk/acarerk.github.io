@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RunnarStrom.data.unityweb",
+"asmCodeUrl": "RunnarStrom.asm.code.unityweb",
+"asmMemoryUrl": "RunnarStrom.asm.memory.unityweb",
+"asmFrameworkUrl": "RunnarStrom.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
