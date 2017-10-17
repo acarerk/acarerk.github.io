@@ -17,7 +17,7 @@ Isometric endless runner game developed for the annual Global Game Jam with a te
 Did game design and programming, 2D art and music production.
 ![image-title-here](RunnarStromScreenshot.png)
 [Play Here](http://acarerk.github.io/RunnarStrom/index.html) (use the left and right arrow keys to move)
-- **Mine! Mine! Mine!**
+- **Mine! Mine! Mine!**<br/>
 A space western themed sci-fi multiplayer card game.
 ![image-title-here](Mine.png)
-
+[Rulebook PDF](Rulebook_Erk_Acar.pdf)
