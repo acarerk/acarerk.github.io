@@ -1,5 +1,5 @@
 # Erk Acar
-![Me](IMG_1075.JPG)
+<img src="http://acarerk.github.io/IMG_1075.JPG" width="300" height="300" />
 **Phone:** 831 419 0881
 **Email:** acarerk@gmail.com
 ## Portfolio
