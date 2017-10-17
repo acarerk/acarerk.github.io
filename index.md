@@ -7,7 +7,7 @@
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 ### Projects
 - **Leap** <br/>
-(solo project)
+(solo project) <br/>
 2D platformer game where collecting coins gets the player extra jumps.<br/>
 ![image-title-here](LeapScreenshot.png)
 [Play Here](http://acarerk.github.io/JumpGame/index.html)
@@ -18,6 +18,7 @@ Did game design and programming, 2D art and music production.
 ![image-title-here](RunnarStromScreenshot.png)
 [Play Here](http://acarerk.github.io/RunnarStrom/index.html) (use the left and right arrow keys to move)
 - **Mine! Mine! Mine!**<br/>
+(solo project) <br/>
 A space western themed sci-fi multiplayer card game.
 ![image-title-here](Mine.png)
 [Rulebook PDF](Rulebook_Erk_Acar.pdf)
