@@ -2,7 +2,7 @@
 ![Me](IMG_1075.JPG)
 **Phone:** 831 419 0881
 **Email:** acarerk@gmail.com
-## Welcome to My Portfolio
+##Portfolio
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 ## Projects
 ### Leap
