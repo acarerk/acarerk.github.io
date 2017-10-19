@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Boar Story.data.unityweb",
+"asmCodeUrl": "Boar Story.asm.code.unityweb",
+"asmMemoryUrl": "Boar Story.asm.memory.unityweb",
+"asmFrameworkUrl": "Boar Story.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
