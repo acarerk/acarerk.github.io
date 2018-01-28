@@ -13,7 +13,7 @@ Passionate Computer Science: Computer Game Design student working towards a Bach
 [Play Here](http://acarerk.github.io/JumpGame/index.html)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
-Isometric endless runner game developed for the annual Global Game Jam with a team in under 24 hours.
+Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
 Did game design and programming, 2D art and music production.
 ![image-title-here](RunnarStromScreenshot.png)
 [Play Here](http://acarerk.github.io/RunnarStrom/index.html) (use the left and right arrow keys to move)
