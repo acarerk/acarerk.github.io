@@ -6,11 +6,11 @@
 ### About
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 ### Projects
-- **Leap** <br/>
-(solo project) <br/>
-2D platformer game where collecting coins gets the player extra jumps.<br/>
-![image-title-here](LeapScreenshot.png)
-[Play Here](http://acarerk.github.io/JumpGame/index.html)
+- **Redwood Dreams** <br/>
+2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
+Solo project. Did game design, art, animation, and programming.
+![image-title-here](Redwood Dreams Capture.png)
+[Play Here](http://acarerk.github.io/RedwoodDreams Erk Acar/index.html) (Tutorial in-game)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
@@ -27,3 +27,8 @@ A space western themed sci-fi multiplayer card game.
 2D Mobile RPG game with a Level System, Loot Generation, Enemy and Area Generation, Save System and Inventory System.
 ![image-title-here](BoarStoryScreenshot.png)
 [Play Here](http://acarerk.github.io/BoarStory/index.html) (A and D buttons to move, J to attack and K to interact with stairs, doors and loot)
+- **Leap** <br/>
+(solo project) <br/>
+2D platformer game where collecting coins gets the player extra jumps.<br/>
+![image-title-here](LeapScreenshot.png)
+[Play Here](http://acarerk.github.io/JumpGame/index.html)
