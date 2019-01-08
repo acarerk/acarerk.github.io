@@ -10,7 +10,7 @@ Passionate Computer Science: Computer Game Design student working towards a Bach
 2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
 Solo project. Did game design, art, animation, and programming.
 ![image-title-here](RedwoodDreamsCapture.png)
-[Play Here](http://acarerk.github.io/RedwoodDreams/index.html) (Tutorial in-game)
+[Play Here](http://acarerk.github.io/RedwoodDreamsHTML/index.html) (Tutorial in-game)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
