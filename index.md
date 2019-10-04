@@ -16,6 +16,10 @@ Solo project. Did game design, art, animation, and programming.
 A 2D fast paced competitive game where the players control planets and try to eliminate each other by throwing asteroids using their gravitational force. Did UI, Programming, Art and Music.
 ![image-title-here](SCC.png)
 [Play Here](https://ostrichman.itch.io/supercosmicclash) (Tutorial in-game)
+- **Furniture Frenzy** <br/>
+A 2D top down competitive party game where the players try to hoard more furniture then their oppponents to their home. Did UI, Programming and Music.
+![image-title-here](IMG_0700.png)
+[Play Here](https://furniturefrenzy.itch.io/furniture-frenzy) (Tutorial in-game)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
