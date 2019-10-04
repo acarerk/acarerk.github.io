@@ -19,7 +19,7 @@ A 2D fast paced competitive game where the players control planets and try to el
 - **Furniture Frenzy** <br/>
 A 2D top down competitive party game where the players try to hoard more furniture then their oppponents to their home. Did UI, Programming and Music.
 ![image-title-here](IMG_0700.PNG)
-[Play Here](https://furniturefrenzy.itch.io/furniture-frenzy) (Tutorial in-game)
+[Play Here](https://furniturefrenzy.itch.io/furniture-frenzy)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
