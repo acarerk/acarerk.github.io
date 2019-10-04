@@ -12,6 +12,10 @@ Amateur music producer. Soundcloud: https://soundcloud.com/earith
 Solo project. Did game design, art, animation, and programming.
 ![image-title-here](RedwoodDreamsCapture.png)
 [Play Here](http://acarerk.github.io/RedwoodDreamsHTML/index.html) (Tutorial in-game)
+- **Super Cosmic Clash** <br/>
+A 2D fast paced competitive game where the players control planets and try to eliminate each other by throwing asteroids using their gravitational force.
+![image-title-here](SCC.png)
+[Play Here](https://ostrichman.itch.io/supercosmicclash) (Tutorial in-game)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
