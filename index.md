@@ -6,7 +6,11 @@
 ### About
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 Amateur music producer. Soundcloud: https://soundcloud.com/earith
-### Projects
+### Technical Projects
+#### Procedural Generation
+- **Melody Generator** <br/>
+An infinite field of melodies coded on Glitch with Javascript. Every square in the infinite field is either empty or is occupied by a note in the chosen musical scale. The scale is chosen randomly using the world key. After the generation of the field, a yellow circle that I like to call “The Driver”  appears. The Driver moves southeast in a set pace, playing the note of each square on its way.  After playing 12 notes, the Driver returns to its starting position. This creates a unique repeating  melody. The user can explore the infinite field with the arrow keys and change the starting location of the Driver by clicking on any square on the map. A different starting position means  a different melody. The colors of the ellipses occupying the squares represent the notes they hold. Different world keys will lead to different scattering of notes and possibly a different scale. 
+[Link](https://glitch.com/~melody-generator)
 #### Games
 - **Redwood Dreams** <br/>
 2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
