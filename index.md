@@ -6,7 +6,8 @@
 ### About
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 Amateur music producer. Soundcloud: https://soundcloud.com/earith
-#### Projects
+### Projects
+#### Games
 - **Redwood Dreams** <br/>
 2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
 Solo project. Did game design, art, animation, and programming.
