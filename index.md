@@ -7,6 +7,9 @@
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
 Amateur music producer. Soundcloud: https://soundcloud.com/earith
 ### Technical Projects
+#### Web Development
+- **Blog Project** <br/> 
+Developed a blog application using express templating engine. Structured the application so that users can register, log in and create posts with images. Used MongoDB to manage the database. Encrypted the passwords for security, utilized cookies to keep track of user sessions.
 #### Procedural Generation
 - **Melody Generator** <br/>
 An infinite field of generated melodies. Every square in the infinite field is either empty or is occupied by a note in the chosen musical scale. The scale is chosen randomly using the world key. After the generation of the field, a yellow circle that I like to call “The Driver”  appears. The Driver moves southeast in a set pace, playing the note of each square on its way.  After playing 12 notes, the Driver returns to its starting position. This creates a unique repeating  melody. The user can explore the infinite field with the arrow keys and change the starting location of the Driver by clicking on any square on the map. A different starting position means  a different melody. The colors of the ellipses occupying the squares represent the notes they hold. Different world keys will lead to different scattering of notes and possibly a different scale. <br/>
