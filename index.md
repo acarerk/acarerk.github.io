@@ -10,7 +10,7 @@ Amateur music producer. Soundcloud: https://soundcloud.com/earith
 #### Web Development
 - **Blog Project** <br/> 
 Developed a blog application using express templating engine. Structured the application so that users can register, log in and create posts with images. Used MongoDB to manage the database. Encrypted the passwords for security, utilized cookies to keep track of user sessions.
-#### Procedural Generation
+#### Procedural Generation Projects
 - **Melody Generator** <br/>
 An infinite field of generated melodies. Every square in the infinite field is either empty or is occupied by a note in the chosen musical scale. The scale is chosen randomly using the world key. After the generation of the field, a yellow circle that I like to call “The Driver”  appears. The Driver moves southeast in a set pace, playing the note of each square on its way.  After playing 12 notes, the Driver returns to its starting position. This creates a unique repeating  melody. The user can explore the infinite field with the arrow keys and change the starting location of the Driver by clicking on any square on the map. A different starting position means  a different melody. The colors of the ellipses occupying the squares represent the notes they hold. Different world keys will lead to different scattering of notes and possibly a different scale. <br/>
 [Link](https://glitch.com/~melody-generator)
@@ -20,7 +20,7 @@ An infinite list of aliens. Using the seed number provided by  the user, this p
 - **Musical Sea** <br/>
 A sea of moving Waves that Respond to Musical Input.  This program creates a sea with  moving waves that respond to the  intensity of the musical input by the  user. The user can play notes on the  natural major scale with the keys A  through J. According to the intensity of  the music played, the sea will start  moving faster or slower and different  tracks will fade in or fade out to  complement the change. The order  with which the complementing tracks fade in is determined randomly with the seed. At a certain  level of intensity, the colors of the sea will also change slightly. <br/>
 [Link]( https://glitch.com/~musical-sea )
-#### Games
+#### Game Projects
 - **Redwood Dreams** <br/>
 2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
 Solo project. Did game design, art, animation, and programming.
