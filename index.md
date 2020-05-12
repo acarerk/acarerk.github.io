@@ -5,7 +5,7 @@
 ## Portfolio
 ### About
 Passionate Computer Science: Computer Game Design student working towards a Bachelor's Degree from University of California Santa Cruz.
-Amateur music producer. Soundcloud: https://soundcloud.com/earith
+Programmer and Audio Engineer as well as Game Designer. Soundcloud: https://soundcloud.com/earith
 ### Technical Projects
 
 #### Web Development
