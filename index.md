@@ -9,23 +9,27 @@ Programmer and Audio Engineer as well as Game Designer. Soundcloud: https://soun
 ### Technical Projects
 
 #### Games
+- **Trials of Tonalli** <br/>
+Isometric Collect-a-thon party game with an arena that is continuously and procedurally generated during runtime. Will be released on Steam in June. Roles: Lead Designer, Technical Director and Audio Lead. 
+![ScreenShot](ToTScreenshot.png)
+[How to Play Video](https://www.youtube.com/watch?time_continue=37&v=L6P-BwqYZv4&feature=emb_logo)
 - **Redwood Dreams** <br/>
 2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
-Solo project. Did game design, art, animation, and programming.
+Solo project. Roles: Game Designer, Artist, Animatior, and Programmer.
 ![image-title-here](RedwoodDreamsCapture.png)
 [Play Here](http://acarerk.github.io/RedwoodDreamsHTML/index.html) (Tutorial in-game)
 - **Super Cosmic Clash** <br/>
-A 2D fast paced competitive game where the players control planets and try to eliminate each other by throwing asteroids using their gravitational force. Did UI, Programming, Art and Music.
+A 2D fast paced competitive game where the players control planets and try to eliminate each other by throwing asteroids using their gravitational force. Roles: Game Designer, UI and 2D Asset Artist, Programmer, and Audio Lead.
 ![image-title-here](SCC.png)
 [Play Here](https://ostrichman.itch.io/supercosmicclash) (Tutorial in-game)
 - **Furniture Frenzy** <br/>
-A 2D top down competitive party game where the players try to hoard more furniture then their oppponents to their home. Did UI, Programming and Music.
+A 2D top down competitive party game where the players try to hoard more furniture then their oppponents to their home. Roles: UI Artist, Programmer, Game Designer and Audio Engineer.
 ![image-title-here](IMG_0700.PNG)
 [Play Here](https://furniturefrenzy.itch.io/furniture-frenzy)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
-Did game design and programming, 2D art and music production.
+Roles: Game Designer and Programmer, 2D Artist and music Audio Lead.
 ![image-title-here](RunnarStromScreenshot.png)
 [Play Here](http://acarerk.github.io/RunnarStrom/index.html) (use the left and right arrow keys to move)
 - **Mine! Mine! Mine!**<br/>
@@ -35,7 +39,7 @@ A space western themed sci-fi multiplayer card game.
 [Rulebook PDF](Rulebook_Erk_Acar.pdf)
 - **Doomsday Dispatch** <br/>
 A typing game where the player must dispatch help to disaster areas during doomsday.
-Global Game Jam 2018 project with a small team. Did game design, art, music, and programming.
+Global Game Jam 2018 project with a small team. Roles: Game Designer, Artist, Audio Lead, and Programmer.
 ![image-title-here](TransmissionImage.png)
 [Play Here](http://acarerk.github.io/TransmissionHTML/index.html) (Tutorial in-game)
 - **Boar Story** <br/>
