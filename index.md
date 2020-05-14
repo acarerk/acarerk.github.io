@@ -13,11 +13,6 @@ Programmer and Audio Engineer as well as Game Designer. Soundcloud: https://soun
 Isometric Collect-a-thon party game with an arena that is continuously and procedurally generated during runtime. Will be released on Steam in June. Roles: Lead Designer, Technical Director and Audio Lead. 
 ![ScreenShot](ToTScreenshot.png)
 [How to Play Video](https://www.youtube.com/watch?time_continue=37&v=L6P-BwqYZv4&feature=emb_logo)
-- **Redwood Dreams** <br/>
-2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
-Solo project. Roles: Game Designer, Artist, Animatior, and Programmer.
-![image-title-here](RedwoodDreamsCapture.png)
-[Play Here](http://acarerk.github.io/RedwoodDreamsHTML/index.html) (Tutorial in-game)
 - **Super Cosmic Clash** <br/>
 A 2D fast paced competitive game where the players control planets and try to eliminate each other by throwing asteroids using their gravitational force. Roles: Game Designer, UI and 2D Asset Artist, Programmer, and Audio Lead.
 ![image-title-here](SCC.png)
@@ -26,6 +21,11 @@ A 2D fast paced competitive game where the players control planets and try to el
 A 2D top down competitive party game where the players try to hoard more furniture then their oppponents to their home. Roles: UI Artist, Programmer, Game Designer and Audio Engineer.
 ![image-title-here](IMG_0700.PNG)
 [Play Here](https://furniturefrenzy.itch.io/furniture-frenzy)
+- **Redwood Dreams** <br/>
+2D sidescroller adventure game with combo based combat system set in the dream world of a college student.
+Solo project. Roles: Game Designer, Artist, Animatior, and Programmer.
+![image-title-here](RedwoodDreamsCapture.png)
+[Play Here](http://acarerk.github.io/RedwoodDreamsHTML/index.html) (Tutorial in-game)
 - **RünnarStröm** <br/>
 **Global Game Jam 2017** <br/>
 Isometric endless runner game developed for the annual Global Game Jam with a team in under 72 hours.
