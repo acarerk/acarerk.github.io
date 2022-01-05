@@ -4,7 +4,7 @@
 **Email:** acarerk@gmail.com
 ## Portfolio
 ### About
-Game Designer/Developer and Sound Engineer. University of California, Santa Cruz Bachelor's in Computer Science: Computer Game Design. Soundcloud: https://soundcloud.com/earith
+Game Designer/Developer. University of California, Santa Cruz Bachelor's in Computer Science: Computer Game Design.
 ### Technical Projects
 
 #### Games
