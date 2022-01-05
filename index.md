@@ -3,7 +3,7 @@
 **Email:** acarerk@gmail.com
 ## Portfolio
 ### About
-Game Designer/Developer. University of California, Santa Cruz Bachelor's in Computer Science: Computer Game Design.
+Game Designer/Developer. Bachelor's of Science in Computer Science: Computer Game Design from **University of California, Santa Cruz.**.
 ### Technical Projects
 
 #### Games
