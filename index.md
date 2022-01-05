@@ -8,7 +8,7 @@ Game Designer/Developer. Bachelor's of Science in Computer Science: Computer Gam
 
 #### Games
 - **Trials of Tonalli** <br/>
-Isometric Collect-a-thon party game with an arena that is continuously and procedurally generated during runtime. Roles: Lead Designer, Technical Director and Audio Lead. UCSC 2020 Games Showcase Design Innovation Award
+Isometric Collect-a-thon party game with an arena that is continuously and procedurally generated during runtime. Roles: Technical Director, Game Designer and Audio Engineer. UCSC 2020 Games Showcase Design Innovation Award
 ![ScreenShot](ToTScreenshot.png)
 [Website](http://www.trialsoftonalli.com/)
 - **Super Cosmic Clash** <br/>
