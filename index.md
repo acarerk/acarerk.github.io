@@ -1,5 +1,5 @@
 # Erk Acar <br/>
-<img src="http://acarerk.github.io/IMG_1075.JPG" width="160" height="160" /> <br/>
+<img src="http://acarerk.github.io/img_1.JPG" width="160" height="160" /> <br/>
 **Email:** acarerk@gmail.com
 ## Portfolio
 ### About
